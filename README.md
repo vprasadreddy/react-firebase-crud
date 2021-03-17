@@ -14,7 +14,7 @@
 
 ![Screen Shot 2021-03-17 at 11 33 18 AM](https://user-images.githubusercontent.com/44241854/111494267-b4f54280-8714-11eb-825d-072d691baeb8.png)
 
-## Delete Record
+### Delete Record
 
 ![Screen Shot 2021-03-17 at 3 54 33 PM](https://user-images.githubusercontent.com/44241854/111530228-6d34e200-8739-11eb-8a23-616592ae20b6.png)
 
