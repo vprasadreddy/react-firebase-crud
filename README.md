@@ -1,10 +1,12 @@
-### All Records
-
 ### Add New Record
 
 ![Screen Shot 2021-03-17 at 11 45 57 AM](https://user-images.githubusercontent.com/44241854/111496168-719bd380-8716-11eb-81ea-9bb9016cd9c1.png)
 
 ![Screen Shot 2021-03-17 at 11 46 11 AM](https://user-images.githubusercontent.com/44241854/111496245-85dfd080-8716-11eb-968b-e2f54d74fe38.png)
+
+### All Records
+
+![Screen Shot 2021-03-17 at 11 52 36 AM](https://user-images.githubusercontent.com/44241854/111497222-5087b280-8717-11eb-8733-66591cebbb76.png)
 
 ### Update Record
 
