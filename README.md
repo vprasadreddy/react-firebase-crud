@@ -14,6 +14,12 @@
 
 ![Screen Shot 2021-03-17 at 11 33 18 AM](https://user-images.githubusercontent.com/44241854/111494267-b4f54280-8714-11eb-825d-072d691baeb8.png)
 
+## Delete Record
+
+![Screen Shot 2021-03-17 at 3 54 33 PM](https://user-images.githubusercontent.com/44241854/111530228-6d34e200-8739-11eb-8a23-616592ae20b6.png)
+
+![Screen Shot 2021-03-17 at 3 54 49 PM](https://user-images.githubusercontent.com/44241854/111530254-7756e080-8739-11eb-90c0-0d23e5d1eefa.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
