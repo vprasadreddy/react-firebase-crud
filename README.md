@@ -1,14 +1,14 @@
 ### All Records
 
-![Screen Shot 2021-03-17 at 11 37 55 AM](https://user-images.githubusercontent.com/44241854/111494968-4b296880-8715-11eb-93c5-240e703deed8.png)
-
 ### Add New Record
 
 ![Screen Shot 2021-03-17 at 11 45 57 AM](https://user-images.githubusercontent.com/44241854/111496168-719bd380-8716-11eb-81ea-9bb9016cd9c1.png)
 
+![Screen Shot 2021-03-17 at 11 46 11 AM](https://user-images.githubusercontent.com/44241854/111496245-85dfd080-8716-11eb-968b-e2f54d74fe38.png)
+
 ### Update Record
 
-![Screen Shot 2021-03-17 at 11 46 11 AM](https://user-images.githubusercontent.com/44241854/111496245-85dfd080-8716-11eb-968b-e2f54d74fe38.png)
+![Screen Shot 2021-03-17 at 11 37 55 AM](https://user-images.githubusercontent.com/44241854/111494968-4b296880-8715-11eb-93c5-240e703deed8.png)
 
 ![Screen Shot 2021-03-17 at 11 33 18 AM](https://user-images.githubusercontent.com/44241854/111494267-b4f54280-8714-11eb-825d-072d691baeb8.png)
 
