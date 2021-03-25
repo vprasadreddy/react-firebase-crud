@@ -77,12 +77,12 @@ function Contacts() {
         </div>
       </div>
       <div className="row">
-        <div className="col-md-5">
+        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5 col-xl-5">
           <ContactForm
             {...{ addorEdit, currentId, contacts, resetCurrentItemId }}
           />
         </div>
-        <div className="col-md-7">
+        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-7 col-xl-7">
           <h1>List of Contacts</h1>
           <table className="table">
             <thead className="thead-dark">

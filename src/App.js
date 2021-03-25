@@ -29,8 +29,8 @@ library.add(
 
 function App() {
   return (
-    <div className="row">
-      <div className="col-md-8 offset-md-2">
+    <div className="row d-flex justify-content-center m-2">
+      <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-9">
         <Contacts></Contacts>
       </div>
     </div>

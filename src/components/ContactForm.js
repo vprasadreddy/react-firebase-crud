@@ -51,6 +51,7 @@ function ContactForm(props) {
           value={values.fullName}
           onChange={handleInputChange}
           aria-describedby="addon-wrapping"
+          required
         />
       </div>
       <div className="input-group mb-3">
