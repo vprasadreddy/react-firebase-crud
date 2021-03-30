@@ -84,47 +84,49 @@ function Contacts() {
         </div>
         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-7 col-xl-7">
           <h1>List of Contacts</h1>
-          <table className="table">
-            <thead className="thead-dark">
-              <tr>
-                <th scope="col">Full Name</th>
-                <th scope="col">Mobile</th>
-                <th scope="col">Email</th>
-                <th scope="col">Address</th>
-                <th scope="col">Action</th>
-              </tr>
-            </thead>
-            <tbody>
-              {Object.keys(contacts).map((id) => {
-                return (
-                  <tr key={id}>
-                    <td>{contacts[id].fullName}</td>
-                    <td>{contacts[id].mobile}</td>
-                    <td>{contacts[id].email}</td>
-                    <td>{contacts[id].address}</td>
-                    <td>
-                      <a
-                        className="btn text-primary"
-                        onClick={() => {
-                          setCurrentId(id);
-                        }}
-                      >
-                        <FontAwesomeIcon icon="pencil-alt" />
-                      </a>
-                      <a
-                        className="btn text-danger"
-                        onClick={() => {
-                          deleteItem(id);
-                        }}
-                      >
-                        <FontAwesomeIcon icon="trash" />
-                      </a>
-                    </td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+          <div class="table-responsive">
+            <table className="table">
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col">Full Name</th>
+                  <th scope="col">Mobile</th>
+                  <th scope="col">Email</th>
+                  <th scope="col">Address</th>
+                  <th scope="col">Action</th>
+                </tr>
+              </thead>
+              <tbody>
+                {Object.keys(contacts).map((id) => {
+                  return (
+                    <tr key={id}>
+                      <td>{contacts[id].fullName}</td>
+                      <td>{contacts[id].mobile}</td>
+                      <td>{contacts[id].email}</td>
+                      <td>{contacts[id].address}</td>
+                      <td>
+                        <a
+                          className="btn text-primary"
+                          onClick={() => {
+                            setCurrentId(id);
+                          }}
+                        >
+                          <FontAwesomeIcon icon="pencil-alt" />
+                        </a>
+                        <a
+                          className="btn text-danger"
+                          onClick={() => {
+                            deleteItem(id);
+                          }}
+                        >
+                          <FontAwesomeIcon icon="trash" />
+                        </a>
+                      </td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </>

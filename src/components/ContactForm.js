@@ -10,7 +10,7 @@ function ContactForm(props) {
   };
   var [values, setValues] = useState(initialFieldValues);
   useEffect(() => {
-    if (props.currentId == "") {
+    if (props.currentId === "") {
       setValues({ ...initialFieldValues });
     } else {
       setValues({ ...props.contacts[props.currentId] });
@@ -31,6 +31,7 @@ function ContactForm(props) {
   };
 
   const resetForm = () => {
+    setValues({ ...initialFieldValues });
     props.resetCurrentItemId();
   };
 
@@ -116,7 +117,7 @@ function ContactForm(props) {
       <div className="input-group mb-3">
         <input
           type="button"
-          value="Reset"
+          value="reset"
           className="btn btn-secondary btn-block"
           onClick={resetForm}
         />
