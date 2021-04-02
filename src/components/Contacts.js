@@ -71,7 +71,7 @@ function Contacts() {
 
   return (
     <>
-      <div className="jumbotron jumbotron-fluid">
+      <div className="jumbotron jumbotron-fluid bg-white">
         <div className="container">
           <h1 className="display-4 text-center">Contacts Application</h1>
         </div>
@@ -83,9 +83,9 @@ function Contacts() {
           />
         </div>
         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-7 col-xl-7">
-          <h1>List of Contacts</h1>
+          <h5>List of Contacts</h5>
           <div class="table-responsive">
-            <table className="table">
+            <table className="table" style={{ fontSize: "small" }}>
               <thead className="thead-dark">
                 <tr>
                   <th scope="col">Full Name</th>

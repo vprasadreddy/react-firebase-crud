@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import swal from "sweetalert";
 import "./App.css";
 import Contacts from "./components/Contacts";
@@ -29,8 +28,8 @@ library.add(
 
 function App() {
   return (
-    <div className="row d-flex justify-content-center m-2">
-      <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-9">
+    <div className="row d-flex justify-content-center">
+      <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-9 mt-2">
         <Contacts></Contacts>
       </div>
     </div>
